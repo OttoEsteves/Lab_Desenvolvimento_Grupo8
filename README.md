@@ -1,6 +1,6 @@
 # Lab_Desenvolvimento_Grupo8 — Portfólio (HTML/CSS/JS)
 
-Portfólio web estático do **Bernardo Rodrigues**, com seções **Home**, **About me**, **Programming Experience**, **Skills**, **Projects** e **Contact**.
+Portfólio web com seções **Home**, **About me**, **Programming Experience**, **Skills**, **Projects** e **Contact**.
 
 ---
 
